@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "compression": "^1.7.4",
+    
     "cors": "^2.8.5",
     "cross-env": "^7.0.3",
     "debug": "^4.3.1",
@@ -30,6 +30,7 @@
     "express-rate-limit": "^5.2.6",
     "helmet": "^4.4.1",
     "joi": "^17.4.0",
+
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.21",
     "mongoose": "^5.12.3",
@@ -50,9 +51,9 @@
     "eslint-plugin-promise": "^4.3.1",
     "eslint-plugin-security": "^1.4.0",
     "faker": "^5.5.2",
-    "jest": "^26.6.3",
+   
     "nodemon": "^2.0.7",
-    "prettier": "^2.2.1",
+
     "supertest": "^6.1.3"
   }
 }
